@@ -1,0 +1,35 @@
+body{
+    background-color: beige;
+}
+.div{
+    text-align: center;
+    border-style: dotted dashed solid double;
+    border-radius: 30%;
+    border-width: 10px;
+}
+p{
+    border-collapse: collapse;
+    border: 1px;
+    color: red;
+    text-decoration: double;
+    background-color: aqua;
+    text-transform: lowercase;
+    line-height:3;
+    text-indent: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+caption{
+    text-align: right;
+    background-color: yellow;
+    color: black;
+    text-transform: lowercase;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+table{
+    color: brown;
+    text-transform: inherit;
+    text-shadow: 1px 1px blue;
+ 
+}
